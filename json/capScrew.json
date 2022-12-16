@@ -25,6 +25,20 @@
     "massKg": 0.001,
     "keyDepth": 1.3
   },
+  "M5x100": {
+    "outerDiameter": 5.0,
+    "headHeight": 5.0,
+    "keySize": 4.0,
+    "headDiameter": 8.5,
+    "boltLength": 100.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
+    "keyDepth": 2.5
+  },
   "M4": {
     "outerDiameter": 4.0,
     "headHeight": 4.0,
@@ -37,6 +51,20 @@
     "massCentroidZ": 0.0,
     "massKg": 0.001,
     "keyDepth": 2.0
+  },
+  "M5x12": {
+    "outerDiameter": 5.0,
+    "headHeight": 5.0,
+    "keySize": 4.0,
+    "headDiameter": 8.5,
+    "boltLength": 12.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
+    "keyDepth": 2.5
   },
   "M5": {
     "outerDiameter": 5.0,
@@ -181,12 +209,12 @@
     "massKg": 0.001,
     "keyDepth": 1.0
   },
-  "M5x12":{
+  "M5x75": {
     "outerDiameter": 5.0,
     "headHeight": 5.0,
     "keySize": 4.0,
     "headDiameter": 8.5,
-    "boltLength": 12.0,
+    "boltLength": 75.0,
     "price": 0.01,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
@@ -215,34 +243,6 @@
     "keySize": 4.0,
     "headDiameter": 8.5,
     "boltLength": 45.0,
-    "price": 0.01,
-    "massCentroidY": 0.0,
-    "massCentroidX": 0.0,
-    "source": "https://commonwealthrobotics.com",
-    "massCentroidZ": 0.0,
-    "massKg": 0.001,
-    "keyDepth": 2.5
-  },
-  "M5x75": {
-    "outerDiameter": 5.0,
-    "headHeight": 5.0,
-    "keySize": 4.0,
-    "headDiameter": 8.5,
-    "boltLength": 75.0,
-    "price": 0.01,
-    "massCentroidY": 0.0,
-    "massCentroidX": 0.0,
-    "source": "https://commonwealthrobotics.com",
-    "massCentroidZ": 0.0,
-    "massKg": 0.001,
-    "keyDepth": 2.5
-  },
-  "M5x100": {
-    "outerDiameter": 5.0,
-    "headHeight": 5.0,
-    "keySize": 4.0,
-    "headDiameter": 8.5,
-    "boltLength": 100.0,
     "price": 0.01,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
