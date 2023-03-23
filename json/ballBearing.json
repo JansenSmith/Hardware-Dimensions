@@ -37,9 +37,9 @@
     "source": "https://commonwealthrobotics.com",
     "massCentroidZ": 0.0,
     "price": 0.01,
-    "shaftSize": "5mm",
+    "shaftSize": "M5",
     "width": 4.0,
-    "shaftType": "dShaft",
+    "shaftType": "capScrew",
     "MaxFreeSpeedRadPerSec": 1.0,
     "innerDiameter": 5.0,
     "massKg": 0.001
