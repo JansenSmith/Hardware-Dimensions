@@ -66,8 +66,8 @@
     "servoShaftSideHeight": 31.5,
     "massKg": 0.0138,
     "servoThinDimentionThickness": "13",
-    "topLevelInsetZ":6.5,
-    "topLevelInsetY":8,
+    "topLevelInsetZ":3.85,
+    "topLevelInsetY":7,
     "noFLangeBrace":"true"
   },
   "hv6214mg": {
