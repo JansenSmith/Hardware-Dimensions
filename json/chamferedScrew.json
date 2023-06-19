@@ -2,8 +2,8 @@
   "M3x16": {
     "outerDiameter": 3.0,
     "headHeight": 1.7,
-    "keySize": 2,
-    "headDiameter": 6,
+    "keySize": 2.0,
+    "headDiameter": 6.0,
     "price": 0.01,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,

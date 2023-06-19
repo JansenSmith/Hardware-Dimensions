@@ -1,0 +1,37 @@
+{
+  "M3x6": {
+    "outerDiameter": 3.0,
+    "headHeight": 2,
+    "keySize": 1,
+    "headDiameter": 5.3,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://www.mcmaster.com/99461A939/",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
+    "keyDepth": 1.3,
+    "boltLength":6.0,
+    "drillDiameter":2.4384
+  },
+  "M2x8": {
+    "outerDiameter": 2.0,
+    "headHeight": 1.4,
+    "keySize": 1,
+    "headDiameter": 3.5,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://www.mcmaster.com/90380A327/",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
+    "keyDepth": 1.3,
+    "boltLength":8.0,
+    "drillDiameter":1.5
+  },
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/chamferedScrew.git",
+    "scriptFile": "chamferedScrew.groovy",
+    "shaft": "true"
+  }
+}
