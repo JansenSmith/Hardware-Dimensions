@@ -55,9 +55,12 @@
     "massCentroidY": 0.0,
     "servoThickDimentionThickness": 23.0,
     "massCentroidX": 0.0,
+    "noFLangeBrace": "true",
     "source": "https://commonwealthrobotics.com",
     "massCentroidZ": 0.0,
+    "topLevelInsetZ": 3.85,
     "flangeLongDimention": 32.0,
+    "topLevelInsetY": 7.0,
     "price": 9.49,
     "shaftSize": "tproSG90_1",
     "shaftType": "hobbyServoHorn",
@@ -65,10 +68,7 @@
     "flangeThickness": 2.0,
     "servoShaftSideHeight": 31.5,
     "massKg": 0.0138,
-    "servoThinDimentionThickness": "13",
-    "topLevelInsetZ":3.85,
-    "topLevelInsetY":7,
-    "noFLangeBrace":"true"
+    "servoThinDimentionThickness": 13.0
   },
   "hv6214mg": {
     "MaxTorqueNewtonmeters": 1.4317709,
