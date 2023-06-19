@@ -1,0 +1,17 @@
+{
+  "M3": {
+    "width": 5.5,
+    "height": 1.8,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://www.mcmaster.com/97259A101/",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001
+  },
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/squareNut.git",
+    "scriptFile": "squareNut.groovy",
+    "shaft": "true"
+  }
+}
