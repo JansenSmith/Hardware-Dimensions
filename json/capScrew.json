@@ -1,9 +1,9 @@
 {
   "M3x16": {
     "outerDiameter": 3.0,
-    "headHeight": 3.0,
+    "headHeight": 1.7,
     "keySize": 2.5,
-    "headDiameter": 5.5,
+    "headDiameter": 6.0,
     "boltLength": 16.0,
     "price": 0.01,
     "massCentroidY": 0.0,
