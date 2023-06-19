@@ -30,8 +30,8 @@
     "drillDiameter":1.5
   },
   "meta": {
-    "scriptGit": "https://github.com/madhephaestus/chamferedScrew.git",
-    "scriptFile": "chamferedScrew.groovy",
+    "scriptGit": "https://github.com/madhephaestus/PhillipsRoundedHeadThreadFormingScrews.git",
+    "scriptFile": "PhillipsRoundedHeadThreadFormingScrews.groovy",
     "shaft": "true"
   }
 }
