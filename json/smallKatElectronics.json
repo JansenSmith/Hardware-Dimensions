@@ -1,3 +1,30 @@
 {
-  "meta": {}
+  "motherboard": {
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://github.com/OperationSmallKat/SmallKat-Motherboard",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001
+  },
+  "dji-mavic-pro-battery": {
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://www.aliexpress.us/item/3256803158664022.html?spm=a2g0o.productlist.main.35.2f0b2192nAw7fe",
+    "massCentroidZ": 0.0,
+    "massKg": 0.24
+  },
+  "batteryInterface": {
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://github.com/OperationSmallKat/DJI_Battery_Baord",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001
+  },
+  "meta": {
+    "scriptGit": "https://github.com/OperationSmallKat/SmallKatElectronicsCad.git",
+    "scriptFile": "electronics.groovy"
+  }
 }
