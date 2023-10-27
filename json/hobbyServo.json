@@ -164,6 +164,27 @@
     "massKg": 0.0138,
     "servoThinDimentionThickness": 11.8
   },
+  "fs90r": {
+    "MaxTorqueNewtonmeters": 0.245,
+    "outputShaftDiameter": 4.9,
+    "shaftToShortSideDistance": 5.9,
+    "bottomOfFlangeToTopOfBody": 10.9,
+    "tipOfShaftToBottomOfFlange": 14.2,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "servoThickDimentionThickness": 23.2,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "flangeLongDimention": 32.6,
+    "price": 7.5,
+    "shaftSize": "tproSG90_1",
+    "shaftType": "hobbyServoHorn",
+    "MaxFreeSpeedRadPerSec": 10.5,
+    "flangeThickness": 2.4,
+    "servoShaftSideHeight": 27.3,
+    "massKg": 0.014,
+    "servoThinDimentionThickness": 12.5
+  },
   "tproTG90": {
     "MaxTorqueNewtonmeters": 0.245,
     "outputShaftDiameter": 4.9,
