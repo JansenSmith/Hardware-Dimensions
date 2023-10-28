@@ -23,6 +23,16 @@
     "scriptGit": "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
     "scriptFile": "heatedThreadedInsert.groovy"
   },
+  "M3": {
+    "diameter": 5.25,
+    "installLength": 6.35,
+    "price": 0.02,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 2.0,
+    "source": "https://www.mcmaster.com/94510a030",
+    "massKg": 0.001
+  },
   "M5": {
     "diameter": 7.9,
     "price": 0.25,
