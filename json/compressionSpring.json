@@ -3,21 +3,45 @@
     "scriptGit": "https://github.com/madhephaestus/SeriesElasticActuator.git",
     "scriptFile": "compressionSpring.groovy"
   },
-  "Compression_12.03kg": {
+  "GhostSpring": {
     "mmcPN": "9434k134",
     "od": 15.24,
-    "id": 11.5824,
-    "springRateKg_mm": 1.39,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "id": 6.2,
+    "massCentroidZ": 0.0,
     "maxLoadKg": 12.03,
+    "springRateKg_mm": 1.39,
+    "relaxedLength": 47.0,
+    "compressedLength": 25.0
+  },
+  "Compression_12.03kg": {
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "springRateKg_mm": 1.39,
+    "mmcPN": "9434k134",
+    "od": 15.24,
+    "price": 0.01,
+    "id": 11.5824,
+    "maxLoadKg": 12.03,
+    "massKg": 0.001,
     "relaxedLength": 19.05,
     "compressedLength": 10.16
   },
   "Compression_dummy": {
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "springRateKg_mm": 1.39,
     "mmcPN": "unknown",
     "od": 11.2,
+    "price": 0.01,
     "id": 6.5,
-    "springRateKg_mm": 1.39,
     "maxLoadKg": 12.03,
+    "massKg": 0.001,
     "relaxedLength": 13.8,
     "compressedLength": 9.5
   }
