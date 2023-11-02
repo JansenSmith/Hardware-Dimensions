@@ -25,6 +25,19 @@
     "massKg": 0.001,
     "hornTipDiameter": 4.8
   },
+  "fs90r_1": {
+    "hornLength": 16.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "hornBaseDiameter": 6.8,
+    "hornThickness": 3.8,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "numberOfHornArms": 1.0,
+    "massKg": 0.001,
+    "hornTipDiameter": 3.8
+  },
   "DHV56mg_sub_Micro_4": {
     "hornLength": 11.59,
     "price": 0.01,
