@@ -24,8 +24,8 @@
     "scriptFile": "heatedThreadedInsert.groovy"
   },
   "M3": {
-    "diameter": 5.25,
-    "installLength": 6.35,
+    "diameter": 4.42,
+    "installLength": 7.0,
     "price": 0.02,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
