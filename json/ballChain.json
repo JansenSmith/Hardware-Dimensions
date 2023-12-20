@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/ballChainCadGenerator.git",
+    "scriptFile": "ballChain.groovy"
+  },
+  "4point5mm": {
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "centerToCenter": 6.5,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "ballDiameter": 4.5,
+    "cordDiameter": 1.5,
+    "massKg": 0.001
+  }
+}
