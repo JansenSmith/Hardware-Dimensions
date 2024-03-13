@@ -1,0 +1,17 @@
+{
+  "nintendoSwitch": {
+    "outerRadius": 21.0,
+    "price": 0.15,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://www.alibaba.com/product-detail/Silicone-thumb-grip-caps-for-Nintendo_1600884506977.html",
+    "innerRadius": 16.5,
+    "massKg": 0.005,
+    "height": 6.75
+  },
+  "meta": {
+    "scriptGit": "https://github.com/JansenSmith/joystickCoversCadGenerator.git",
+    "scriptFile": "joystickCovers.groovy"
+  }
+}
