@@ -1,5 +1,6 @@
 {
   "nintendoSwitch": {
+    "outerRadius": 21.0,
     "price": 0.15,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
@@ -8,7 +9,8 @@
     "innerRadius": 16.5,
     "massKg": 0.005,
     "height": 6.75,
-    "materialThickness": 2.0
+    "materialThickness": 2.0,
+    "ballRadius": 10.0
   },
   "meta": {
     "scriptGit": "https://github.com/JansenSmith/joystickCoversCadGenerator.git",
