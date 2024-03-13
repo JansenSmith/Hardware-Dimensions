@@ -1,13 +1,13 @@
 {
   "nintendoSwitch": {
     "outerRadius": 6.0,
-    "price": 0.01,
+    "price": 0.15,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
     "massCentroidZ": 0.0,
-    "source": "https://commonwealthrobotics.com",
+    "source": "https://www.alibaba.com/product-detail/Silicone-thumb-grip-caps-for-Nintendo_1600884506977.html",
     "innerRadius": 5.0,
-    "massKg": 0.001,
+    "massKg": 0.005,
     "height": 2.0
   },
   "meta": {
