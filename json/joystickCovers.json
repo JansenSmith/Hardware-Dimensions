@@ -1,3 +1,17 @@
 {
-  "meta": {}
+  "nintendoSwitch": {
+    "outerRadius": 6.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "innerRadius": 5.0,
+    "massKg": 0.001,
+    "height": 2.0
+  },
+  "meta": {
+    "scriptGit": "https://github.com/JansenSmith/joystickCoversCadGenerator.git",
+    "scriptFile": "joystickCovers.groovy"
+  }
 }
