@@ -1,17 +1,38 @@
 {
   "Aluminum 5": {
+    "holeCountHeight": "1",
     "thickness": 1.6002,
+    "price": 0.01,
     "holeCountWidth": 1.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
     "holeCountLength": 5.0
   },
   "Aluminum 10": {
+    "holeCountHeight": 1.0,
     "thickness": 1.6002,
+    "price": 0.01,
     "holeCountWidth": 1.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
     "holeCountLength": 10.0
   },
   "Steel 5": {
+    "holeCountHeight": "1",
     "thickness": 1.1684,
+    "price": 0.01,
     "holeCountWidth": 1.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
     "holeCountLength": 5.0
   },
   "meta": {
@@ -19,28 +40,63 @@
     "scriptFile": "scripts/Lchannel.groovy"
   },
   "Steel 15": {
+    "holeCountHeight": "1",
     "thickness": 1.1684,
+    "price": 0.01,
     "holeCountWidth": 1.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
     "holeCountLength": 15.0
   },
   "Aluminum 35": {
+    "holeCountHeight": "1",
     "thickness": 1.6002,
+    "price": 0.01,
     "holeCountWidth": 5.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
     "holeCountLength": 35.0
   },
   "Steel 35": {
+    "holeCountHeight": "1",
     "thickness": 1.1684,
+    "price": 0.01,
     "holeCountWidth": 1.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
     "holeCountLength": 35.0
   },
   "Steel 10": {
+    "holeCountHeight": "1",
     "thickness": 1.1684,
+    "price": 0.01,
     "holeCountWidth": 1.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
     "holeCountLength": 10.0
   },
   "Aluminum 15": {
+    "holeCountHeight": "1",
     "thickness": 1.6002,
+    "price": 0.01,
     "holeCountWidth": 1.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
     "holeCountLength": 15.0
   }
 }
