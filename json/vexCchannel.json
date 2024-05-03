@@ -206,5 +206,17 @@
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001,
     "holeCountLength": 35.0
+  },
+  "Aluminum_1x2x25": {
+    "holeCountHeight": 1.0,
+    "thickness": 1.6002,
+    "price": 0.01,
+    "holeCountWidth": 2.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
+    "holeCountLength": 25.0
   }
 }
