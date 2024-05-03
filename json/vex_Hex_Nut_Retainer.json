@@ -32,5 +32,15 @@
     "source": "https://www.vexrobotics.com/nut-retainers.html",
     "massKg": 0.005,
     "numberOfBearingFlats": 0.0
+  },
+  "Flat_Bearing": {
+    "numberOfPosts": 0.0,
+    "price": 0.579,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://www.vexrobotics.com/nut-retainers.html",
+    "massKg": 0.005,
+    "numberOfBearingFlats": 3.0
   }
 }
