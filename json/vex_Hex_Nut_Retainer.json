@@ -1,18 +1,4 @@
 {
-  "meta": {
-    "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
-    "scriptFile": "scripts/vex_Hex_Nut_Retainer.groovy"
-  },
-  "1_Post_Hex_Nut_Retainer": {
-    "numberOfPosts": 1.0,
-    "price": 0.579,
-    "massCentroidY": 0.0,
-    "massCentroidX": 0.0,
-    "massCentroidZ": 0.0,
-    "source": "https://www.vexrobotics.com/nut-retainers.html",
-    "massKg": 0.005,
-    "numberOfBearingFlats": 0.0
-  },
   "1_Post_Hex_Nut_Retainer_With_Bearing": {
     "numberOfPosts": 1.0,
     "price": 0.579,
@@ -25,6 +11,20 @@
   },
   "4_Post_Hex_Nut_Retainer": {
     "numberOfPosts": 4.0,
+    "price": 0.579,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://www.vexrobotics.com/nut-retainers.html",
+    "massKg": 0.005,
+    "numberOfBearingFlats": 0.0
+  },
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
+    "scriptFile": "scripts/vex_Hex_Nut_Retainer.groovy"
+  },
+  "1_Post_Hex_Nut_Retainer": {
+    "numberOfPosts": 1.0,
     "price": 0.579,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
