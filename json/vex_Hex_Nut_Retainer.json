@@ -1,7 +1,7 @@
 {
   "meta": {
-    "scriptGit": "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git",
-    "scriptFile": "vex_Hex_Nut_Retainer.groovy"
+    "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
+    "scriptFile": "scripts/vex_Hex_Nut_Retainer.groovy"
   },
   "1_Post_Hex_Nut_Retainer": {
     "numberOfPosts": 1.0,
