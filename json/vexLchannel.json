@@ -1,6 +1,6 @@
 {
   "Aluminum 5": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.6002,
     "price": 0.01,
     "holeCountWidth": 1.0,
@@ -24,7 +24,7 @@
     "holeCountLength": 10.0
   },
   "Steel 5": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.1684,
     "price": 0.01,
     "holeCountWidth": 1.0,
@@ -40,7 +40,7 @@
     "scriptFile": "scripts/Lchannel.groovy"
   },
   "Steel 15": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.1684,
     "price": 0.01,
     "holeCountWidth": 1.0,
@@ -52,7 +52,7 @@
     "holeCountLength": 15.0
   },
   "Aluminum 35": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.6002,
     "price": 0.01,
     "holeCountWidth": 5.0,
@@ -64,7 +64,7 @@
     "holeCountLength": 35.0
   },
   "Steel 35": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.1684,
     "price": 0.01,
     "holeCountWidth": 1.0,
@@ -76,7 +76,7 @@
     "holeCountLength": 35.0
   },
   "Steel 10": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.1684,
     "price": 0.01,
     "holeCountWidth": 1.0,
@@ -88,7 +88,7 @@
     "holeCountLength": 10.0
   },
   "Aluminum 15": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.6002,
     "price": 0.01,
     "holeCountWidth": 1.0,
