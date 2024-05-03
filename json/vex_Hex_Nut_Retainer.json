@@ -1,3 +1,16 @@
 {
-  "meta": {}
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/vex_Hex_Nut_RetainerCadGenerator.git",
+    "scriptFile": "vex_Hex_Nut_Retainer.groovy"
+  },
+  "1_Post_Hex_Nut_Retainer": {
+    "numberOfPosts": 1.0,
+    "price": 0.579,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://www.vexrobotics.com/nut-retainers.html",
+    "massKg": 0.005,
+    "numberOfBearingFlats": 0.0
+  }
 }
