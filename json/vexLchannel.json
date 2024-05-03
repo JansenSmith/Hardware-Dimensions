@@ -87,6 +87,18 @@
     "massKg": 0.001,
     "holeCountLength": 10.0
   },
+  "2x2x35_Aluminum": {
+    "holeCountHeight": 2.0,
+    "thickness": 1.6002,
+    "price": 6.97,
+    "holeCountWidth": 2.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://www.vexrobotics.com/v5-structure.html",
+    "massKg": 0.001,
+    "holeCountLength": 35.0
+  },
   "Aluminum 15": {
     "holeCountHeight": 1.0,
     "thickness": 1.6002,
