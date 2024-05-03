@@ -1,6 +1,6 @@
 {
   "Aluminum 2x35": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.6002,
     "price": 0.01,
     "holeCountWidth": 2.0,
@@ -12,7 +12,7 @@
     "holeCountLength": 35.0
   },
   "Aluminum 3x15": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.6002,
     "price": 0.01,
     "holeCountWidth": 3.0,
@@ -36,7 +36,7 @@
     "holeCountLength": 15.0
   },
   "Aluminum 5x15": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.6002,
     "price": 0.01,
     "holeCountWidth": 5.0,
@@ -48,7 +48,7 @@
     "holeCountLength": 15.0
   },
   "Aluminum 3x35": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.6002,
     "price": 0.01,
     "holeCountWidth": 3.0,
@@ -60,7 +60,7 @@
     "holeCountLength": 35.0
   },
   "Aluminum 5x35": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.6002,
     "price": 0.01,
     "holeCountWidth": 5.0,
@@ -72,7 +72,7 @@
     "holeCountLength": 35.0
   },
   "Steel 2x5": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.1684,
     "price": 0.01,
     "holeCountWidth": 2.0,
@@ -84,7 +84,7 @@
     "holeCountLength": 5.0
   },
   "Steel 3x5": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.1684,
     "price": 0.01,
     "holeCountWidth": 3.0,
@@ -96,7 +96,7 @@
     "holeCountLength": 5.0
   },
   "Steel 5x5": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.1684,
     "price": 0.01,
     "holeCountWidth": 5.0,
@@ -112,7 +112,7 @@
     "scriptFile": "scripts/Cchannel.groovy"
   },
   "Steel 2x35": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.1684,
     "price": 0.01,
     "holeCountWidth": 2.0,
@@ -124,7 +124,7 @@
     "holeCountLength": 35.0
   },
   "Steel 3x35": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.1684,
     "price": 0.01,
     "holeCountWidth": 3.0,
@@ -136,7 +136,7 @@
     "holeCountLength": 35.0
   },
   "Aluminum 3x5": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.6002,
     "price": 0.01,
     "holeCountWidth": 3.0,
@@ -148,7 +148,7 @@
     "holeCountLength": 5.0
   },
   "Steel 5x15": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.1684,
     "price": 0.01,
     "holeCountWidth": 5.0,
@@ -160,7 +160,7 @@
     "holeCountLength": 15.0
   },
   "Steel 2x15": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.1684,
     "price": 0.01,
     "holeCountWidth": 2.0,
@@ -172,7 +172,7 @@
     "holeCountLength": 15.0
   },
   "Steel 3x15": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.1684,
     "price": 0.01,
     "holeCountWidth": 3.0,
@@ -184,7 +184,7 @@
     "holeCountLength": 15.0
   },
   "Aluminum 5x5": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.6002,
     "price": 0.01,
     "holeCountWidth": 5.0,
@@ -196,7 +196,7 @@
     "holeCountLength": 5.0
   },
   "Steel 5x35": {
-    "holeCountHeight": "1",
+    "holeCountHeight": 1.0,
     "thickness": 1.1684,
     "price": 0.01,
     "holeCountWidth": 5.0,
