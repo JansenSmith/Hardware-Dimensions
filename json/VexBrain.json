@@ -1,7 +1,7 @@
 {
   "meta": {
-    "scriptGit": "https://github.com/madhephaestus/VexBrainCadGenerator.git",
-    "scriptFile": "VexBrain.groovy"
+    "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
+    "scriptFile": "scripts/VexBrain.groovy"
   },
   "v5": {
     "price": 362.96,
