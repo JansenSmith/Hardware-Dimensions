@@ -13,7 +13,7 @@
     "hShort": 24.14
   },
   "meta": {
-    "scriptGit": "https://github.com/madhephaestus/VexBatteryCadGenerator.git",
-    "scriptFile": "VexBattery.groovy"
+    "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
+    "scriptFile": "scripts/VexBattery.groovy"
   }
 }
