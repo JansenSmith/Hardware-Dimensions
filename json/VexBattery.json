@@ -1,3 +1,19 @@
 {
-  "meta": {}
+  "v5_14wh": {
+    "lTall": 96.11,
+    "hTall": 30.33,
+    "price": 72.49,
+    "w": 46.45,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://www.vexrobotics.com/276-4811.html",
+    "l": 160.45,
+    "massKg": 0.35,
+    "hShort": 24.14
+  },
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/VexBatteryCadGenerator.git",
+    "scriptFile": "VexBattery.groovy"
+  }
 }
