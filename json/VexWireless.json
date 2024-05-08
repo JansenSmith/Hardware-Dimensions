@@ -13,7 +13,7 @@
     "hShort": 13.08
   },
   "meta": {
-    "scriptGit": "https://github.com/madhephaestus/VexWirelessCadGenerator.git",
-    "scriptFile": "VexWireless.groovy"
+    "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
+    "scriptFile": "scripts/VexWireless.groovy"
   }
 }
