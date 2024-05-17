@@ -195,6 +195,18 @@
     "massKg": 0.001,
     "holeCountLength": 5.0
   },
+  "Aluminum_1x2x10": {
+    "holeCountHeight": 1.0,
+    "thickness": 1.6002,
+    "price": 0.01,
+    "holeCountWidth": 2.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
+    "holeCountLength": 10.0
+  },
   "Steel 5x35": {
     "holeCountHeight": 1.0,
     "thickness": 1.1684,
