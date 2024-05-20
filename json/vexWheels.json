@@ -1,24 +1,24 @@
 {
-  "2.75inchSmooth": {
-    "diameter": 69.83,
-    "totalHeight": 19.59,
-    "tireWidth":11.78,
-    "squareOrRound": "round"
-  },
-   "4inchSmooth": {
-    "diameter": 103.03,
-    "totalHeight": 19.59,
-    "tireWidth": 11.78,
-    "squareOrRound": "round"
-  },
-   "4inchStandard": {
-    "diameter": 103.54,
+  "4inchStandard": {
     "totalHeight": 21.58,
-    "tireWidth": 10.61,
-    "squareOrRound": "square"
+    "squareOrRound": "square",
+    "diameter": 103.54,
+    "tireWidth": 10.61
+  },
+  "4inchSmooth": {
+    "totalHeight": 19.59,
+    "squareOrRound": "round",
+    "diameter": 103.03,
+    "tireWidth": 11.78
   },
   "meta": {
-      "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scriptFile": "scripts/Wheels.groovy"
+    "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
+    "scriptFile": "scripts/Wheels.groovy"
+  },
+  "2.75inchSmooth": {
+    "totalHeight": 19.59,
+    "squareOrRound": "round",
+    "diameter": 69.83,
+    "tireWidth": 11.78
   }
 }
