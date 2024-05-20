@@ -3,13 +3,25 @@
     "totalHeight": 21.58,
     "squareOrRound": "square",
     "diameter": 103.54,
-    "tireWidth": 10.61
+    "tireWidth": 10.61,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
   },
   "4inchSmooth": {
     "totalHeight": 19.59,
     "squareOrRound": "round",
     "diameter": 103.03,
-    "tireWidth": 11.78
+    "tireWidth": 11.78,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
   },
   "meta": {
     "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
@@ -19,6 +31,18 @@
     "totalHeight": 19.59,
     "squareOrRound": "round",
     "diameter": 69.83,
-    "tireWidth": 11.78
+    "tireWidth": 11.78,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
+  },
+  "4InchOmni": {
+    "totalHeight": 21.58,
+    "squareOrRound": "square",
+    "diameter": 103.54,
+    "tireWidth": 10.61
   }
 }
