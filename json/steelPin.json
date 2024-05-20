@@ -1,3 +1,21 @@
 {
-  "meta": {}
+  "2x10mm": {
+    "MaxTorqueNewtonmeters": 0.001,
+    "price": 0.01,
+    "shaftSize": "5mm",
+    "pinLength": 10.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "shaftType": "dShaft",
+    "MaxFreeSpeedRadPerSec": 1000.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "pinDiameter": 2.0,
+    "massKg": 0.001
+  },
+  "meta": {
+    "actuator": "true",
+    "scriptGit": "https://github.com/madhephaestus/steelPinCadGenerator.git",
+    "scriptFile": "steelPin.groovy"
+  }
 }
