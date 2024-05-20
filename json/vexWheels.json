@@ -51,6 +51,18 @@
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001
   },
+  "2_75InchOmni": {
+    "totalHeight": 21.58,
+    "squareOrRound": "square",
+    "diameter": 60.0,
+    "price": 14.49,
+    "tireWidth": 10.61,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://www.vexrobotics.com/wheels.html?config=535-2349,536-2356,537-2848#description",
+    "massKg": 0.1
+  },
   "4InchOmni": {
     "totalHeight": 21.58,
     "squareOrRound": "square",
