@@ -11,7 +11,7 @@
     "massCentroidZ": 0.0,
     "source": "https://commonwealthrobotics.com",
     "pinDiameter": 2.0,
-    "massKg": 0.001
+    "massKg": 0.0005
   },
   "meta": {
     "actuator": "true",

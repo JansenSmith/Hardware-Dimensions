@@ -13,6 +13,6 @@
     "massCentroidZ": 0.0,
     "source": "https://commonwealthrobotics.com",
     "rollerHeight": 12.5,
-    "massKg": 0.001
+    "massKg": 0.0005
   }
 }
