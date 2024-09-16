@@ -1,46 +1,138 @@
 {
-   "Steel 5": {
+  "Aluminum 5": {
+    "holeCountHeight": 1.0,
+    "thickness": 1.6002,
+    "price": 0.01,
     "holeCountWidth": 1.0,
-    "holeCountLength": 5.0,
-    "thickness": 1.1684
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
+    "holeCountLength": 5.0
   },
-   "Steel 10": {
+  "Aluminum 10": {
+    "holeCountHeight": 1.0,
+    "thickness": 1.6002,
+    "price": 0.01,
     "holeCountWidth": 1.0,
-    "holeCountLength": 10.0,
-    "thickness": 1.1684
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
+    "holeCountLength": 10.0
   },
-   "Steel 15": {
+  "Steel 5": {
+    "holeCountHeight": 1.0,
+    "thickness": 1.1684,
+    "price": 0.01,
     "holeCountWidth": 1.0,
-    "holeCountLength": 15.0,
-    "thickness": 1.1684
-  },
-   "Steel 35": {
-    "holeCountWidth": 1.0,
-    "holeCountLength": 35.0,
-    "thickness": 1.1684
-  },
-   "Aluminum 5": {
-    "holeCountWidth": 1.0,
-    "holeCountLength": 5.0,
-    "thickness": 1.6002
-  },
-   "Aluminum 10": {
-    "holeCountWidth": 1.0,
-    "holeCountLength": 10.0,
-    "thickness": 1.6002
-  },
-   "Aluminum 15": {
-    "holeCountWidth": 1.0,
-    "holeCountLength": 15.0,
-    "thickness": 1.6002
-  },
-   "Aluminum 35": {
-    "holeCountWidth": 5.0,
-    "holeCountLength": 35.0,
-    "thickness": 1.6002
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
+    "holeCountLength": 5.0
   },
   "meta": {
-      "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scriptFile": "scripts/Lchannel.groovy"
+    "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
+    "scriptFile": "scripts/Lchannel.groovy"
+  },
+  "Steel 15": {
+    "holeCountHeight": 1.0,
+    "thickness": 1.1684,
+    "price": 0.01,
+    "holeCountWidth": 1.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
+    "holeCountLength": 15.0
+  },
+  "Aluminum 35": {
+    "holeCountHeight": 1.0,
+    "thickness": 1.6002,
+    "price": 0.01,
+    "holeCountWidth": 5.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
+    "holeCountLength": 35.0
+  },
+  "Steel 35": {
+    "holeCountHeight": 1.0,
+    "thickness": 1.1684,
+    "price": 0.01,
+    "holeCountWidth": 1.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
+    "holeCountLength": 35.0
+  },
+  "Steel 10": {
+    "holeCountHeight": 1.0,
+    "thickness": 1.1684,
+    "price": 0.01,
+    "holeCountWidth": 1.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
+    "holeCountLength": 10.0
+  },
+  "2x2x35_Aluminum": {
+    "holeCountHeight": 2.0,
+    "thickness": 1.6002,
+    "price": 6.97,
+    "holeCountWidth": 2.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://www.vexrobotics.com/v5-structure.html",
+    "massKg": 0.001,
+    "holeCountLength": 35.0
+  },
+    "2x2x25_Aluminum": {
+    "holeCountHeight": 2.0,
+    "thickness": 1.6002,
+    "price": 6.97,
+    "holeCountWidth": 2.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://www.vexrobotics.com/v5-structure.html",
+    "massKg": 0.001,
+    "holeCountLength": 25.0
+  },
+   "3x3x25_Aluminum": {
+    "holeCountHeight": 3.0,
+    "thickness": 1.6002,
+    "price": 6.97,
+    "holeCountWidth": 3.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://www.vexrobotics.com/v5-structure.html",
+    "massKg": 0.001,
+    "holeCountLength": 35.0
+  },
+  "Aluminum 15": {
+    "holeCountHeight": 1.0,
+    "thickness": 1.6002,
+    "price": 0.01,
+    "holeCountWidth": 1.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
+    "holeCountLength": 15.0
   }
 }

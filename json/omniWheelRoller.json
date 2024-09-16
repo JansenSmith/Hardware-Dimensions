@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/omniWheelRollerCadGenerator.git",
+    "scriptFile": "omniWheelRoller.groovy",
+    "shaft": "true"
+  },
+  "4inch13Roller": {
+    "wheelDiameter": 101.6,
+    "rollerthickDiameter": 8.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "rollerHeight": 12.5,
+    "massKg": 0.0005
+  }
+}

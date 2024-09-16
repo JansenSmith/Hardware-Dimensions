@@ -1,0 +1,19 @@
+{
+  "v5_Vexnet": {
+    "wValue": 25.24,
+    "lTall": 43.0,
+    "hTall": 21.45,
+    "price": 45.99,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://www.vexrobotics.com/276-4831.html",
+    "l": 84.41,
+    "massKg": 0.025,
+    "hShort": 13.08
+  },
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
+    "scriptFile": "scripts/VexWireless.groovy"
+  }
+}

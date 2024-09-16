@@ -18,6 +18,25 @@
     "sizeY": 40.0,
     "sizeZ": 35.5
   },
+  "v5_11w": {
+    "MaxTorqueNewtonmeters": 2.1,
+    "axleInset": 16.26,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://https://www.vexrobotics.com/276-4840.html",
+    "postDiamTop": 13.31,
+    "sizeX": 33.0,
+    "price": 46.99,
+    "postInset": 8.4,
+    "shaftSize": "2-inch",
+    "postDiamBottom": 13.31,
+    "shaftType": "vexShaft",
+    "MaxFreeSpeedRadPerSec": 10.471,
+    "massKg": 0.155,
+    "sizeY": 71.6,
+    "sizeZ": 57.3
+  },
   "meta": {
     "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
     "actuator": "true",
