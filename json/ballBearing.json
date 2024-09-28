@@ -209,6 +209,21 @@
     "innerDiameter": 12.6,
     "massKg": 0.001
   },
+  "6810_2RS": {
+    "MaxTorqueNewtonmeters": 0.001,
+    "outerDiameter": 65.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 3.5,
+    "source": "https://www.amazon.com/uxcell-6810-2RS-Groove-Bearings-Double/dp/B082PXZLJT",
+    "price": 4.75,
+    "shaftSize": "M3",
+    "width": 7.0,
+    "shaftType": "capScrew",
+    "MaxFreeSpeedRadPerSec": 1.0,
+    "innerDiameter": 50.0,
+    "massKg": 0.05
+  },
   "685zz": {
     "outerDiameter": 11.0,
     "MaxTorqueNewtonmeters": 0.001,
