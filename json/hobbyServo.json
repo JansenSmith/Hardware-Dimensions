@@ -65,7 +65,7 @@
     "shaftSize": "tproSG90_1",
     "shaftType": "hobbyServoHorn",
     "MaxFreeSpeedRadPerSec": 9.52,
-    "flangeThickness": 2.0,
+    "flangeThickness": 2.5,
     "servoShaftSideHeight": 31.5,
     "massKg": 0.0138,
     "servoThinDimentionThickness": 13.0
