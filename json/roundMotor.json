@@ -27,5 +27,29 @@
     "massKg": 0.203,
     "boltHolePatternAngleIncrement": 60.0,
     "dshaft": "WPI-gb37y3530-50en"
+  },
+  "RF-500TB-18280": {
+    "MaxTorqueNewtonmeters": 5.9,
+    "motorBodyRadius": 16.0,
+    "totalShaftLength": 8.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "boltSize": "M2",
+    "source": "https://www.amazon.com/RF-500TB-18280-Electric-1-5V-5V-2700RPM-Diameter/dp/B09N2PPWCW?th=1",
+    "massCentroidZ": 0.0,
+    "bodyLength": 19.0,
+    "boltHolePatternDiameter": 28.0,
+    "boltType": "capScrew",
+    "price": 6.99,
+    "shaftCenterOffset": 0.0,
+    "shaftCollarHeight": 2.0,
+    "shaftSize": "2mm",
+    "boltHolePatternAngleOffset": 0.0,
+    "shaftType": "dShaft",
+    "MaxFreeSpeedRadPerSec": 20.943,
+    "shaftCollarDiameter": 4.0,
+    "massKg": 0.203,
+    "boltHolePatternAngleIncrement": 180.0,
+    "dshaft": "2mm"
   }
 }
