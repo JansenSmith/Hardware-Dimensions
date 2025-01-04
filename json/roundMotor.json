@@ -30,7 +30,7 @@
   },
   "RF-500TB-18280": {
     "MaxTorqueNewtonmeters": 5.9,
-    "motorBodyRadius": 16.0,
+    "motorBodyRadius": 32.0,
     "totalShaftLength": 8.0,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
