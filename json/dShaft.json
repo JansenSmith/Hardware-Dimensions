@@ -11,15 +11,15 @@
     "shaftDiameter": 3.0
   },
   "3_16th_inch": {
-    "shaftDSectionDiameter": 4.06,
+    "shaftDSectionDiameter": 1.95,
     "price": 0.01,
-    "length": 16.0,
+    "length": 8.0,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
-    "source": "https://www.pololu.com/product/3079",
+    "source": "https://www.amazon.com/RF-500TB-18280-Electric-1-5V-5V-2700RPM-Diameter/dp/B09N2PPWCW",
     "massCentroidZ": 5.0,
     "massKg": 0.001,
-    "shaftDiameter": 4.75
+    "shaftDiameter": 2.0
   },
   "5mm": {
     "shaftDSectionDiameter": 4.34,
